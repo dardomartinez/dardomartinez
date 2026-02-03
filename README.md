@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola! Soy Dardo.
 
-<!--
-**dardomartinez/dardomartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy en proceso de transición desde el área contable-financiera hacia el desarrollo de software.
 
-Here are some ideas to get you started:
+Durante más de 3 años trabajé en roles administrativos y contables donde desarrollé una fuerte base analítica, mucha cercanía con los números y una forma estructurada de resolver problemas. Hoy estoy enfocando esa misma lógica en el mundo de la programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Actualmente:
+
+Estoy profundizando mis conocimientos en:
+
+- Python  
+- SQL  
+- Git & GitHub  
+- Automatización de procesos  
+
+Mi objetivo es claro: conseguir mi primera oportunidad profesional como developer y seguir creciendo dentro del mundo tech.
+
+## Qué me diferencia:
+
+No vengo solo del código. Entiendo cómo funcionan las empresas, los procesos y la lógica de negocio. Busco combinar ese background con tecnología para construir soluciones que realmente aporten valor.
+
+## En qué estoy ahora:
+
+Próximamente voy a estar subiendo proyectos reales mientras continúo formándome.
+
+Si llegaste hasta acá, gracias por pasar.
